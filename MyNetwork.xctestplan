@@ -1,0 +1,33 @@
+{
+  "configurations" : [
+    {
+      "id" : "3115CB48-3ED2-4972-A3BF-F01DDA48EFC6",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:",
+          "identifier" : "MyNetwork",
+          "name" : "MyNetwork"
+        }
+      ]
+    },
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "MyNetworkTests",
+        "name" : "MyNetworkTests"
+      }
+    }
+  ],
+  "version" : 1
+}

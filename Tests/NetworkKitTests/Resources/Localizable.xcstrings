@@ -1,0 +1,57 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "decoding_error_key_not_found" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Key “%@” not found when decoding the model “%@”."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valor “%@” não encontrado ao mapear o modelo “%@”."
+          }
+        }
+      }
+    },
+    "decoding_error_type_mismatch" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Received unexpected type “%@” when decoding “%@” of the model “%@”."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recebido tipo inesperado “%@” ao mapear “%@” para o modelo “%@”."
+          }
+        }
+      }
+    },
+    "decoding_error_value_not_found" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expected “%@” value for “%@” not found when decoding the model “%@”."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valor “%@” esperado em “%@” não encontrado ao mapear modelo “%@”."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
