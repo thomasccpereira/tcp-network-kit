@@ -11,7 +11,7 @@ let package = Package(
          targets: ["NetworkKit"]),
    ],
    dependencies: [
-      .package(url: "https://github.com/thomasccpereira/tcp-core-resources", from: "1.2.0"),
+      .package(url: "https://github.com/thomasccpereira/tcp-core-resources", from: "1.2.2"),
    ],
    targets: [
       .target(
